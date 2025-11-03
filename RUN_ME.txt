@@ -1,0 +1,47 @@
+========================================
+PAANO I-OPEN ANG APP
+========================================
+
+METHOD 1: Double-click ang file na ito
+----------------------------------------
+1. Double-click: run-server.ps1
+2. Wait for server to start
+3. Open browser: http://localhost:5173
+
+METHOD 2: Using PowerShell
+----------------------------------------
+1. Right-click sa demo-app folder
+2. Select "Open in Terminal" or "Open PowerShell window here"
+3. Type: npm run dev
+4. Press Enter
+5. Open browser: http://localhost:5173
+
+METHOD 3: Manual Command
+----------------------------------------
+1. Open PowerShell
+2. Copy this whole command:
+   cd "C:\Users\vanje\Desktop\devMode\devMode\Event Discovery & Scoring Automation Assistant\demo-app"
+3. Press Enter
+4. Then type: npm run dev
+5. Press Enter
+6. Open browser: http://localhost:5173
+
+========================================
+TROUBLESHOOTING
+========================================
+
+Kung may error:
+1. Screenshot yung error message
+2. Sabihin mo sa akin yung exact error
+
+Kung blank page:
+1. Check browser console (F12)
+2. Check kung may error sa terminal
+
+Kung hindi talaga gumana:
+1. Try: npm install ulit
+2. Try: Delete node_modules, then npm install
+3. Sabihin mo sa akin yung error message
+
+========================================
+
